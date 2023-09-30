@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @datapro94. I am an aspiring data scientist. Currently, learning python. I am also an advanced Microsoft Excel user. I would be happy to collaborate on suitable projects!
